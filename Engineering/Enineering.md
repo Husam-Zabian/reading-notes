@@ -33,3 +33,7 @@
 2. Keep focus on the results and the level that you are in right now, not the failure that you have been through
 3. When you achieve your goal you will forget all the pain and sad times that you have been through your entire journey
 4. Learning from your mistakes will give you more confident and experience to avoid the next mistakes
+
+# Why5 ?
+
+#### It's a very intresting way to solve your problems so it's depend on questioning the answer that you recieved from the question before it's reminds me a little in the recusive function so when you stop your questions that means you are starting solving your answers in a reverse direction until you reach your first question
